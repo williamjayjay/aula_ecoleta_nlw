@@ -1,6 +1,8 @@
 ## Projeto Ecoleta da NLW da Rocketseat 
 Olá amigos, este projeto eu fiz seguindo os importantes passos da Rocketseat, cada vez mais aprendendo coisas novas com o ensinamento de alto nível!
 
+-Aqui utilizei bastante Typesript e o basico sobre CSS e JS.
+
 <h1 align="center">Projeto Ecoleta </h1>
 
 <img src="https://raw.githubusercontent.com/williamjayjay/aula_ecoleta_nlw/master/gif/gif-ecoleta.gif" >
